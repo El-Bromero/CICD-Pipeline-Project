@@ -4,7 +4,7 @@
 
 ## Key Components
 - Source Control: Git
-- Code Analysis: SonarQUbe
+- Code Analysis: SonarQube
 - Dependency Management: NPM
 - Containerization: Docker
 - Orchestration: Kubernetes
